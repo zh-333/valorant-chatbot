@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/valorant-chatbot/static/css/main.7142b270.css",
+    "main.js": "/valorant-chatbot/static/js/main.9031f4c0.js",
+    "static/media/valoranticon.png": "/valorant-chatbot/static/media/valoranticon.7933e879a70f988fb382.png",
+    "index.html": "/valorant-chatbot/index.html",
+    "main.7142b270.css.map": "/valorant-chatbot/static/css/main.7142b270.css.map",
+    "main.9031f4c0.js.map": "/valorant-chatbot/static/js/main.9031f4c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7142b270.css",
+    "static/js/main.9031f4c0.js"
+  ]
+}

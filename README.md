@@ -2,9 +2,13 @@
 
 A Valorant-themed chatbot built using React, designed to provide players with useful information and guidance. The bot answers common questions about the game, such as how to buy skins, details about agents, acquiring Valorant Points, and more.
 
+### Deployed Website:
+https://zh-333.github.io/valorant-chatbot/#/mainchat
+
 ## Features
 
 - **Interactive Chat**: The bot greets users and provides information on various Valorant topics.
+- **Speech-to-Text**: Users can interact with the bot using their voice, making it easier to ask questions and get responses.
 - **FAQ Command**: Type `faq` or `help` to see a list of questions the bot can answer.
 - **Typing Indicator**: Shows when the bot is responding to the user input.
 - **Mobile Responsive**: Works well on both desktop and mobile devices.
